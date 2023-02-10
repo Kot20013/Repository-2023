@@ -1,2 +1,2 @@
-git Ershov Aleksandr
+Ershov Aleksandr
 PS-12
